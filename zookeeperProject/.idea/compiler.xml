@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="config" />
+        <module name="leader" />
+        <module name="zookeeper_cumster" />
+        <module name="zookeeper_order" />
+        <module name="zookeeper_production" />
+        <module name="zookeper_lock" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="config" target="1.8" />
+      <module name="leader" target="1.8" />
+      <module name="zookeeper_cumster" target="1.8" />
+      <module name="zookeeper_production" target="1.8" />
+      <module name="zookeper_lock" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

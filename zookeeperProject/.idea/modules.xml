@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/config/config.iml" filepath="$PROJECT_DIR$/config/config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leader/leader.iml" filepath="$PROJECT_DIR$/leader/leader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zookeeper_cumster/zookeeper_cumster.iml" filepath="$PROJECT_DIR$/zookeeper_cumster/zookeeper_cumster.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zookeeper_production/zookeeper_production.iml" filepath="$PROJECT_DIR$/zookeeper_production/zookeeper_production.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zookeper_lock/zookeper_lock.iml" filepath="$PROJECT_DIR$/zookeper_lock/zookeper_lock.iml" />
+    </modules>
+  </component>
+</project>
